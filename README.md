@@ -5,7 +5,7 @@
 4. [Mouse Event and Interactive Drawing](https://github.com/abhishek201202/openCv/blob/master/4\)%20Mouse%20Event%20and%20Interactive%20Drawing.ipynb)
 5. [Matplotlib and Colormaps](https://github.com/abhishek201202/openCv/blob/master/5\)%20Matplotlib%20and%20Colormaps.ipynb)
 6. [ColorSpaces](https://github.com/abhishek201202/openCv/blob/master/6\)%20ColorSpaces.ipynb)
-7. [WebCam](https://github.com/abhishek201202/openCv/blob/master/7)%20WebCam.ipynb)
+7. [WebCam](https://github.com/abhishek201202/openCv/blob/master/7\)%20WebCam.ipynb)
 8. [Object Tracking by Color](https://github.com/abhishek201202/openCv/blob/master/8\)%20Object%20Tracking%20by%20Color.ipynb)
 9. [Displaying Multiple Images wit Matplotlib](https://github.com/abhishek201202/openCv/blob/master/9\)%20Displaying%20Multiple%20Images%20with%20matplotlib.ipynb)
 10. [Arithmetic Operations on Images](https://github.com/abhishek201202/openCv/blob/master/10\)%20Arithmetic%20Operation%20on%20images.ipynb)
